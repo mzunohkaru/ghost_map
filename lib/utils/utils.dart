@@ -1,0 +1,1 @@
+const keiziban = "https://keiziban919.web.app/#/";
